@@ -1,10 +1,7 @@
 /*  your css code here. If applicable */
 
 .center-box {
-	position: absolute;
-	top: 50%;
-	left: 50%;
-	transform: translate(-50%, -50%);
+	transform: translate(50%, 50%);
 	width: 200px;
 	height: 200px;
 	background-color: lightblue;
@@ -15,6 +12,5 @@
 }
 
 .center-box p {
-	text-align: center;
 	color: purple;
 }
